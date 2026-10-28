@@ -1,0 +1,7 @@
+{
+    "application": "Banking Application",
+    "version": "1.0",
+    "currency": "INR",
+    "default_balance": 5000
+}
+
